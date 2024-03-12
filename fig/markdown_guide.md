@@ -74,16 +74,16 @@ print('Do not go gentle into that good night')
 ![阿库娅](aky.jpg) ![asuka](asuka.png)
 ## 2.2图片居中并排显示(可以调节大小)
 <center class="half">
-<img src="fig/aky.jpg" width=200/>
-<img src="fig/asuka.png" width=237/>
+<img src="aky.jpg" width=200/>
+<img src="asuka.png" width=237/>
 </center>
 
 ## 2.3图片左对齐并排显示
 
 <figure>
-<img src="fig/sleep.jpg" width=140/>
-<img src="fig/sleep.jpg" width=140/>
-<img src="fig/sleep.jpg" width=140/>
+<img src="sleep.jpg" width=140/>
+<img src="sleep.jpg" width=140/>
+<img src="sleep.jpg" width=140/>
 </figure>
 
 
@@ -101,8 +101,8 @@ print('Do not go gentle into that good night')
         <td ><center><img src="https://ts1.cn.mm.bing.net/th/id/R-C.51dc415e53dd6a7b7d8cb51b6f7d872a?rik=lXRUjErSLUPHPg&riu=http%3a%2f%2faramajapan.com%2fwp-content%2fuploads%2f2018%2f11%2faramajapan.com-yui-aragaki2.jpg&ehk=I6bmRAEXPMStMBLqFERnwN0phu7Ik88QqKfpFt3Y5EM%3d&risl=&pid=ImgRaw&r=0"  >Fig2 新垣结衣</center></td>
     </tr>
     <tr>
-        <td><center><img src="fig/g5.png" >Fig3 John</center></td>
-        <td ><center><img src="fig/g5.png"  >Fig4 John</center> </td>
+        <td><center><img src="g5.png" >Fig3 John</center></td>
+        <td ><center><img src="g5.png"  >Fig4 John</center> </td>
     </tr>
 </table>
 
@@ -130,7 +130,7 @@ print('Do not go gentle into that good night')
 
 ## 3.3直接链接
 ~~<https://www.pronhub.com>~~(搞错了)
-![战锤jpg](fig/zc.jpg)
+![战锤jpg](zc.jpg)
 <https://www.marxists.org/chinese/index.html>(这才是当代青年应该学习的)
 
 
@@ -222,7 +222,7 @@ ______________________________________
 对vscode中预览的页面右键点击chrome，选择其中的pdf格式。
 
 ************************
-![example1](fig/example1.png)
+![example1](example1.png)
 ************************
 
 
