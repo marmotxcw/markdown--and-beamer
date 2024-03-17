@@ -225,27 +225,34 @@ ______________________________________
 ![example1](fig/example1.png)
 ************************
 
-## 11.2Git教程
+## Git教程
 
 ![git](git.jpg)
 [参考教程](https://www.runoob.com/git/git-tutorial.html)
+
 (https://mp.weixin.qq.com/s/Q_O0ey4C9tryPZaZeJocbA)
+
 https://zhuanlan.zhihu.com/p/539611066
+
 https://www.jianshu.com/p/d265f7763a3a
+
 https://blog.csdn.net/weixin_41975655/article/details/82887273
+
 https://blog.csdn.net/u014361280/article/details/109047336
+
 图形化使用gitdesktop：https://zhuanlan.zhihu.com/p/666417763
-### 11.2.1如何构建你的代码仓库
+
+### 如何构建你的代码仓库
 
 [参考教程1](https://www.jianshu.com/p/8f0911fcb390)
 
 
-### 11.2.2如何构建你的Projects
+### 如何构建你的Projects
 
 [参考教程1](https://docs.github.com/cn/issues/planning-and-tracking-with-projects)
 
 
-## Git实用命令
+### 实用命令
 
 
 + 链接远程仓库：`git remote add origin <远程库URL>`
